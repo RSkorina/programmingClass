@@ -1,0 +1,3 @@
+# Variable Gold Turtle
+# Input turtle specification
+from turtle import *
